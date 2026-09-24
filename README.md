@@ -1,6 +1,6 @@
 <div align="center">
 
-# Привет, я Александр Лесник 👋
+# Привет, я Александру Лесник 👋
 
 ### Backend Developer · Go & Python
 
